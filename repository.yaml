@@ -5,7 +5,7 @@ maintainer: Manaam Rehan <manaamrehan2k19@gmail.com>
 
 # Add your WePower IoT addon
 addons:
-  - name: "WePower IoT"
+  - name: WePower Serial Scanner Addon
     slug: "wepower_iot"
     description: "Complete BLE/Zigbee integration with MQTT support"
     version: "1.0.0"
